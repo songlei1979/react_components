@@ -13,7 +13,7 @@ function Helloworld(props) {
             <p>This is my properties:</p>
             <p>Name: {props.name}</p>
             <p>Age: {props.age}</p>
-            <button onClick={clickMe}>Click me</button>
+            <button onClick={clickMe} className={"btn btn-success"}>Click me</button>
             <button onClick={props.clickMe}>Click me</button>
 
         </div>
