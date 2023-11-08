@@ -2,7 +2,7 @@
   "name": "react_components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://songlei1979.github.io/react_components/",
+  "homepage": "https://songlei1979.github.io/react_components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
